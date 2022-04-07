@@ -1,4 +1,4 @@
 ![image](image.png)
 
-[Lab Report 1](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
+[Lab Report 1](https://kec020.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
