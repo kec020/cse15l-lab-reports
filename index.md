@@ -10,7 +10,7 @@ Hello World!
 
 ![image](http://url/b.jpg)
 
-> Blockquote
+> Blockquoteeeeee
 
 * one
 * two
@@ -23,3 +23,5 @@ Hello World!
 Horizontal rule:
 
 ---
+
+There are **Soooooo** *many* ways to write in markdown!!!
