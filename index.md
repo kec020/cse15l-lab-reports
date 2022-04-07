@@ -24,4 +24,6 @@ Horizontal rule:
 
 ---
 
+`Inline code` with backticks
+
 There are **Soooooo** *many* ways to write in markdown!!!
