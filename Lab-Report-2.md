@@ -48,6 +48,7 @@ Then run the command in the terminal (where you need to replace *amc* into the l
 
 Then, you can log into ieng6 with `ssh`, and run the `ls` command in your terminal. You will see the *WhereAmI.java* file in your home directory. Now you can run it on ieng6 computer using `javac` and `java`. Here is the example:
 ![scpamc](scpamc.png) 
+![sshjavac](sshjavac.png)
 
 
 ## Setting an SSH Key
