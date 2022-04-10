@@ -7,7 +7,7 @@ Once you download and open it successfully, you can see the page.
 ## Remotely Connecting
 In order to connect to a remote host, fist we need to know our course-specific account for CSE 15L from the [link](https://sdacs.ucsd.edu/~icc/index.php).
 
-Then open the terminal in VSCode, type `ssh` and your account after `ssh`, like this: (where you need to replace amc into the letters in your course-specific account.)
+Then open the terminal in VSCode, type `ssh` and your account after `ssh`, like this: (where you need to replace *amc* into the letters in your course-specific account.)
 
 `ssh cs15lsp22amc@ieng6.ucsd.edu`
 
@@ -42,7 +42,7 @@ class WhereAmI {
   }
 }
 ```
-Then run the command in the terminal (where you need to replace amc into the letters in your course-specific account), and enter the password.
+Then run the command in the terminal (where you need to replace *amc* into the letters in your course-specific account), and enter the password.
 
 `scp WhereAmI.java cs15lsp22amc@ieng6.ucsd.edu:~/`
 
