@@ -62,6 +62,7 @@ First, on client(your local computer), run:
 
 You will see: 
 ![keygenfile](keygenfile.png)
+
 Copy and paste the highlighted words. Then you will see:
 
 `Enter passphrase (empty for no passphrase):`
