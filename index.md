@@ -35,3 +35,4 @@ print 'indent 4 spaces'
 There are **Soooooo** *many* ways to write in markdown!!!
 
 [Lab Report 1](https://kec020.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Lab Report 2](https://kec020.github.io/cse15l-lab-reports/Lab-Report-2.html)
