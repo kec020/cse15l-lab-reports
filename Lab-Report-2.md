@@ -12,6 +12,7 @@ Then open the terminal in VSCode, type `ssh` and your account after `ssh`, like 
 `ssh cs15lsp22amc@ieng6.ucsd.edu`
 
 Type *yes* and press enter when you first connect to the server. Once you successfully connect to the server, you will see: ![sshpw](sshpw.png)
+
 Since this is not my first time, I do not need to type *yes* after I give my password. 
 
 
