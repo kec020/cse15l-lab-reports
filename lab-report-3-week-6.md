@@ -34,7 +34,7 @@ Here are both the public key and private key that I stored on my user account.
 
 Show running git commands to commit and push a change to Github while logged into my ieng6 account.
 
-![gitchange+commit](gitchange%2Bcommit.png)
+![gitchange+commit](gitchange+commit.png)
 
 ![gitpush](gitpush.png)
 
