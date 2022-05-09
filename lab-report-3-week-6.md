@@ -58,7 +58,7 @@ This is how I compile and run the tests.
 
 ![compile+run](compile%2Brun.png)
 
-This is the combined step:
+This is the combined step (There are still some errors that I haven't fixed yet):
 
 ![scp+ssh1](scp+ssh1.png)
 
