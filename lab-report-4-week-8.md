@@ -20,6 +20,8 @@ For my implementation: Failed
 For the implementation you reviewed in Week 7: Failed
 ![s1review-test-result](s1review-test-result.png)
 
+I think there can be a small code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. I need to first determine whether there is a <code>`</code>. If there exist the backticks, it shouold ignore the part between the backticks and update the starting index to find the brackets, parenthesis, and escaped brackets.
+
 
 
 # Snippet 2
@@ -38,6 +40,8 @@ For my implementation: Failed
 For the implementation you reviewed in Week 7: Failed
 ![s2review-test-result](s2review-test-result.png)
 
+I think the code change may exceed 10 lines. Because I need to figure out when there is a `)` match after the `(` inside the , it should be the nested parentheses, brackets, and escaped brackets. The code for determining this situation might long.
+
 
 
 # Snippet 3
@@ -55,3 +59,5 @@ For my implementation: Failed
 
 For the implementation you reviewed in Week 7: Failed
 ![s3review-test-result](s3review-test-result.png)
+
+For the last one, I think the code change can be small. I need to determine if there is newlines in brackets and parentheses. if yes, it needs to ignore the newlines, and update the index.
