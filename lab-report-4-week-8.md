@@ -5,15 +5,53 @@ This is the [link](https://github.com/hahacen/markdown-parser) to the one I revi
 
 # Snippet 1
 
-For Snippet 1, it should produce ![snippet1](snippet1.png)
+By looking at the VScode preview, ![snippet1](snippet1.png)
+the expected output should be <code>[`google.com, google.com, ucsd.edu]</code>
 
-The test for Snippet 1 should be ![s1test](s1test.png)
+This is my code in MarkdownParseTest.java for how I turned it into a test
+![s1test](s1test.png)
+
+
+The corresponding output when running the test:
+
+For my implementation: Failed
+![s1test-result](s1test-result.png)
+
+For the implementation you reviewed in Week 7: Failed
+![s1review-test-result](s1review-test-result.png)
+
 
 
 # Snippet 2
-For Snippet 2, it should produce ![snippet2](snippet2.png)
+By looking at the VScode preview, ![snippet2](snippet2.png)
+the expected output should be <code>[a.com, a.com(()), example.com]</code>
+
+This is my code in MarkdownParseTest.java for how I turned it into a test
+![s2test](s2test.png)
+
+
+The corresponding output when running the test:
+
+For my implementation: Failed
+![s2test-result](s2test-result.png)
+
+For the implementation you reviewed in Week 7: Failed
+![s2review-test-result](s2review-test-result.png)
 
 
 
 # Snippet 3
-For Snippet 1, it should produce ![snippet3](snippet3.png)
+By looking at the VScode preview, ![snippet3](snippet3.png)
+the expected output should be <code>[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]</code>
+
+This is my code in MarkdownParseTest.java for how I turned it into a test
+![s3test](s3test.png)
+
+
+The corresponding output when running the test:
+
+For my implementation: Failed
+![s3test-result](s3test-result.png)
+
+For the implementation you reviewed in Week 7: Failed
+![s3review-test-result](s3review-test-result.png)
